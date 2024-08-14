@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: **[dianefuentes2002@gmail.com](mailto:dianefuentes2002@gmail.com)**
+      <p align="center">📫 How to reach me: <a href="mailto:dianefuentes2002@gmail.com">dianefuentes2002@gmail.com</a></p>
 </p>
 
 <h3 align="center">Connect with me:</h3>
