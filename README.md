@@ -45,10 +45,10 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dianesophia&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianesophia&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dianesophia&theme=default&hide_border=true" 
+    height="180"
+  />
 </p>
