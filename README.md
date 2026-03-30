@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Diane Sophia Fuentes</h1>
-<h3 align="center">A passionate computer science graduate</h3>
+<h3 align="center">A passionate software engineer and computer science graduate</h3>
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?t=st=1723630157~exp=1723630757~hmac=bcbadd85a5a1e7f3564a965443e02769295af27b10fe53e1af8c17b097618947" alt="Coding" width="300" style="border-radius: 15px;"/>
